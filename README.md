@@ -28,12 +28,12 @@ It can also be done via [Thonny IDE](https://thonny.org/)
 -   2 10KΩ resistors
 -   Wires
 
-![hardware](fritzing.png)
+![hardware](img/fritzing.png)
 
 ## Demo
 
 Pressing buttons to change displayed info (speed is static due to cruise control)
-![dash](https://i.imgur.com/ljpgojK.gif)
+![dash](img/screen.gif)
 
 Game screenshot
-![ats](https://i.imgur.com/at4pYLW.png)
+![ats](img/game-screenshot.png)
