@@ -6,7 +6,7 @@ Decided to start learning electronics as a hobby and while studying got an idea 
 
 This is a hobby project in a very early stage (simple) and work in progress. I intend on switching to a graphic screen and add more features/info to the dashboard.
 
-I'm currently working on a companion app which fetches the game data using [scs-sdk-plugin](https://github.com/RenCloud/scs-sdk-plugin) (by RenCloud forked from [nlhans](https://github.com/nlhans/ets2-sdk-plugin)) and sends it to Pico via usb using JSON format.
+For sending data from the game SDK to the Raspberry Pi Pico via usb I'm using a [companion app](https://github.com/gpadilha/scs-pico-dashboard-companion).
 
 ### Credits
 
